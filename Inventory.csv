@@ -1,0 +1,16 @@
+sku,coffee_name,origin,roast,stock_kg,price_per_kg ($),status
+EO-101,Morning Ember,Brazil,Medium,42,18.50,active
+EO-102,Highland Bloom,Ethiopia,Light,8,26.00,active
+EO-103,Midnight Oak,Sumatra,Dark,0,21.00,active
+EO-104,Cascade Decaf,Colombia,Medium,15,22.50,active
+EO-105,Holiday Reserve,Guatemala,Medium,30,28.00,seasonal
+EO-106,Red Canyon,Kenya,Light,12,29.50,discontinued
+EO-107,Golden Hour,Colombia,Light,24,20.50,active
+EO-108,Volcanic Ridge,Guatemala,Dark,18,23.00,active
+EO-109,Maple Street Blend,Brazil,Medium,36,19.75,active
+EO-110,Blue Heron,Ethiopia,Medium,14,27.50,active
+EO-111,Cloudline Decaf,Mexico,Medium,20,21.50,active
+EO-112,Northstar Espresso Blend,Brazil,Dark,28,20.00,active
+EO-113,Wildflower Lot,Kenya,Light,9,31.00,seasonal
+EO-114,Coastal Morning,Peru,Medium,22,22.00,active
+EO-115,Smoky Lantern,Sumatra,Dark,16,24.50,active
