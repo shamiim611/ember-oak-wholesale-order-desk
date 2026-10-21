@@ -1,3 +1,4 @@
 order_id,timestamp,customer_email,customer_name,sku,quantity_kg,line_total,status,notes
 EO-20240522-001,2026-10-21T04:27:18.820Z,sunrisebagels@gmail.com,Jamal (Sunrise Bagels),EO-101,10,185,confirmed,Order for 10 kg of Morning Ember
 EO-GPH-25-HOLIDAY,2026-10-21T04:50:37.984Z,grandplaza.org,Lena (Grand Plaza Hotel),EO-105,25,700,pending_approval,"Order over $500 threshold, pending approval. Requested 25kg of Holiday Reserve."
+EO-20240523-01,2026-10-21T04:52:53.816Z,grandplaza@gmail.com,Lena - Grand Plaza Hotel,EO-105,25,700,pending_approval,Holiday order for 25kg. Pending approval due to total > $500.
