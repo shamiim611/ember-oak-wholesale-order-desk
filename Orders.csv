@@ -1,2 +1,3 @@
 order_id,timestamp,customer_email,customer_name,sku,quantity_kg,line_total,status,notes
 ,2026-10-21T04:18:35.973Z,,,,,,confirmed,
+EO-20240522-001,2026-10-21T04:27:18.820Z,sunrisebagels@gmail.com,Jamal (Sunrise Bagels),EO-101,10,185,confirmed,Order for 10 kg of Morning Ember
